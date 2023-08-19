@@ -2,7 +2,7 @@
 
 ### What is use strict ?
 
-by defult javascriot non strict way ma run hota hai.iska mtlb yaha hai ki javascript non strict mood ma kuch error ko ignore kar ta hai.for example:
+By defult javascriot non strict way me run hota hai. Iska matlbb yah hai ki javascript non strict mood ma kuch error ko ignore kar ta hai.for example:
 
 ```javascript
 x = 10;
