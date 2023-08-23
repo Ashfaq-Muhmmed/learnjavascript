@@ -11,7 +11,7 @@ Back-end ek aisa part hai jiske through website ke data ko store, manage aur pro
 
 
 ### What is HTML?  
-HTML ek markup language hai jo websites banane ke liye use hota hai. HTML ka matlab hota hai "HyperText Markup Language". Iska use kisi bhi webpage ke structure ko define karne ke liye kiya jata hai, jaise ki headings, paragraphs, links, images aur tables wagaira. Iske dwara hum content ko organize, structure aur style kar sakte hain. Basically, agar website ek ghar hai toh HTML uski building blocks hote hain.
+HTML ek markup language hai jo websites banane ke liye use hoti hai. HTML ka matlab hota hai "HyperText Markup Language". Iska use kisi bhi webpage ke structure ko define karne ke liye kiya jata hai, jaise ki headings, paragraphs, links, images aur tables etc. Iske dwara hum content ko organize, structure aur style kar sakte hain. Basically, agar website ek ghar hai toh HTML uski building blocks hote hain.
 
 
 ### What is CSS?  
@@ -19,19 +19,19 @@ CSS ek programming language hai, joki internet ke web pages ka design aur appear
 
 
 ### What is JavaScript?  
-JavaScript ek programming language hai jiski madad se websites aur web applications banaye jaate hain. Yah browser mein run hota hai aur user interaction ke sath-sath dynamic content ko bhi handle karta hai. JavaScript ka upyog HTML aur CSS ke saath milakar dynamic web pages banane ke liye kiya jata hai. Iske alawa, JavaScript aajkal desktop aur mobile apps me bhi istemal hoti hai.
+JavaScript ek programming language hai jiski madad se websites aur web applications banaye jaate hain. Yeh browser main run hota hai aur user interaction ke sath-sath dynamic content ko bhi handle karta hai. JavaScript ka upyog HTML aur CSS ko saath milakar dynamic web pages banane ke liye kiya jata hai. Iske alawa, JavaScript aajkal desktop aur mobile apps me bhi istemal hoti hai.
 
 
 ### Difference between java and JavaScript?  
 Java ek programming language hai jo general-purpose applications ke liye use kiya jaata hai. Ye language object-oriented hai, jismein program ko classes aur objects mein organise kiya jaata hai. Java mein code compile hota hai aur baad mein execute hota hai. Iska use server-side applications, mobile applications, games, etc. ke liye kiya jaata hai.
 
-JavaScript bhi ek programming language hai, lekin ye web development ke liye use kiya jaata hai. Ye client-side scripting language hai, jisse HTML aur CSS ke saath use kiya jaata hai web pages ko interactive banana ke liye. JavaScript ko browser mein run kiya jaata hai, iski madad se user interfaces, animations, form validations, etc. banaye jaate hain.
+JavaScript bhi ek programming language hai, lekin ye web development ke liye use kiya jaata hai. Ye client-side scripting language hai, jisse HTML aur CSS ke saath use kiya jaata hai web pages ko interactive banane ke liye. JavaScript ko browser mein run kiya jaata hai, iski madad se user interfaces, animations, form validations, etc. banaye jaate hain.
 
-Iske alawa, Java aur JavaScript mein syntax aur coding approach mein bhi antar hai. Java mein explicit type declarations aur strict syntax hota hai, jabki JavaScript mein simplified syntax aur flexibility hoti hai.
+Iske alawa, Java aur JavaScript main syntax aur coding approach main bhi difference hai. Java mein explicit type declarations aur strict syntax hota hai, jabki JavaScript main simplified syntax aur flexibility hoti hai.
 
 
 ### Is JavaScript a case-sensitive language?  
-Haanji, JavaScript ek case-sensitive language hai. Iska matlab hai ki agar aap variables, functions ya keywords ke naam ko capital aur small letters mein alag-alag type karte hain to uska farak padta hai. Jaise ki "apple" aur "Apple" dono alag variables hain JavaScript mein.
+JavaScript ek case-sensitive language hai. Iska matlab hai ki agar aap variables, functions ya keywords ke naam ko capital aur small letters main alag-alag type karte hain to uska farak padta hai. Jaise ki "apple" aur "Apple" dono alag variables hain JavaScript main.
 
 
 ### Tell us about role of HTML, CSS, and JavaScript?  
@@ -45,7 +45,7 @@ In teeno ka sahi tarah se istemal karke, ek visually appealing, easy to navigate
 
 
 ### Tell us about the history of JavaScript?  
-JavaScript ka itihaas 1995 mein shuru hua, jab Netscape Navigator browser ke liye ek naya programming language ka avishkar kiya gaya tha. Isse pahle, web pages static aur non-interactive the. JavaScript ne web development ko dynamic aur interactive banaya.
+JavaScript ki history 1995 se start, Brendan Eich naam ke ek Engineer ne Netscape Navigator browser ke liye ek nayi programming language ka avishkar kiya. Isse pahle, web pages static aur non-interactive the. JavaScript ne web development ko dynamic aur interactive banaya.
 
 Phir Microsoft Internet Explorer bhi iske saath compatible ho gaya aur tab se yeh programming language web development mein prachalit ho gayi. JavaScript aajkal sabse jyada istemal ki jaane wali programming language hai aur yeh aage bhi bahut hi important rahegi web development ke liye.
 
